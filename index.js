@@ -40,6 +40,6 @@ function decrement(n){
 }
 
 function makeInt(n){
-  var total = parseInt('hello', 10);
+  var makeInt = parseInt('hello', 10);
   return total;
 }
